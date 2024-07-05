@@ -1,0 +1,11 @@
+filterpy
+lapx
+matplotlib
+numpy
+opencv_python
+opencv_python_headless
+scipy
+scikit-image
+tensorflow
+torch
+ultralytics
